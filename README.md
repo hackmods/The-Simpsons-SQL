@@ -4,6 +4,8 @@
 
 This project stands to be a fun data source for fans of the famous yellow coloured family featuring a mom with blue hair. Feel free to contribute or critique all of the things.
 
+![Simpsons Database Design](https://raw.githubusercontent.com/hackmods/The-Simpsons-SQL/master/Image/The_Simpsons_DB.png)
+
 ## Origin
 
 The original data srt comes from [Kaggle.com's wcukierski: the-simpsons-by-the-data](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data), with additional data scraped across the net. The content comes "as is" and retains all of its commercial rights.
