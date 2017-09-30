@@ -104,7 +104,7 @@ id,name,normalized_name
 103,Springfield Elementary School Yard,springfield elementary school yard
 104,JAZZ HOLE NIGHTCLUB,jazz hole nightclub
 105,Simpson Front Yard,simpson front yard
-106,Bob's RV Round-Up (Formerly RVs –Ø Us),bob rv round-up
+106,Bob's RV Round-Up (Formerly RVs _¯ Us),bob rv round-up
 107,INSIDE THE ULTIMATE BEHEMOTH,inside the ultimate behemoth
 108,INSIDE CREDIT OFFICE,inside credit office
 109,BACK OF THE RV LOT,back of the rv lot
@@ -217,7 +217,7 @@ id,name,normalized_name
 216,Springfield,springfield
 217,Jake's Unisex Hair Palace,jake unisex hair palace
 218,Karl's Elegant Apartment,karl elegant apartment
-219,HUGE OLD HOUSE LIKE IN "THE SHINING",huge old house like in the shining
+219,"HUGE OLD HOUSE LIKE IN ""THE SHINING""",huge old house like in the shining
 220,Living Room Of House,living room of house
 221,Spacecraft,spacecraft
 222,Space Ship,space ship
@@ -290,7 +290,7 @@ id,name,normalized_name
 288,DREAMLIKE SUBURBAN SPRINGFIELD STREET,dreamlike suburban springfield street
 289,Burns's Car,burns car
 290,LARGE PUBLIC PARK,large public park
-291,GLASS-ENCLOSED CONSULTATION ROOM (LIKE IN "L.A. LAW"),glass-enclosed consultation room
+291,"GLASS-ENCLOSED CONSULTATION ROOM (LIKE IN ""L.A. LAW"")",glass-enclosed consultation room
 292,GLASS BOOTH,glass booth
 293,Burns's Living Room,burns living room
 294,The Happy Sumo,the happy sumo
@@ -442,12 +442,12 @@ id,name,normalized_name
 440,ROAD ON THE WAY TO SCHOOL,road on the way to school
 441,Bart's Classroom,bart classroom
 442,Springfield Elementary School Bus Stop,springfield elementary school bus stop
-443,THE "AH FUDGE!" CHOCOLATE FACTORY IN SHELBYVILLE,the ah fudge chocolate factory in shelbyville
+443,"THE ""AH FUDGE!"" CHOCOLATE FACTORY IN SHELBYVILLE",the ah fudge chocolate factory in shelbyville
 444,CHOCOLATE FACTORY ORIENTATION ROOM,chocolate factory orientation room
 445,"Ah, Fudge! Chocolate Factory",ah fudge chocolate factory
 446,Legitimate Businessman's Social Club,legitimate businessman social club
 447,Club,club
-448,"PIZZA DELIVERY TRUCK",pizza delivery truck
+448,PIZZA DELIVERY TRUCK,pizza delivery truck
 449,Downtown Springfield,downtown springfield
 450,Deathhouse,deathhouse
 451,Springfield Prison,springfield prison
@@ -715,7 +715,7 @@ id,name,normalized_name
 711,Used Car Lot,used car lot
 712,Car Show,car show
 713,Condominium Complex,condominium complex
-714,"MC MAHON AND TATE ADVERTISING AGENCY",mc mahon and tate advertising agency
+714,MC MAHON AND TATE ADVERTISING AGENCY,mc mahon and tate advertising agency
 715,Agency,agency
 716,WOMAN'S HOUSE,woman house
 717,Mountain,mountain
@@ -763,7 +763,7 @@ id,name,normalized_name
 758,ANCHOR STORE,anchor store
 759,SIMPSON STATION WAGON,simpson station wagon
 760,Diner,diner
-761,"the Lucky Stiff" Funeral Home,the lucky stiff funeral home
+761,the Lucky Stiff Funeral Home,the lucky stiff funeral home
 762,FUNERAL PARLOR,funeral parlor
 763,FUNERAL PARLOR OFFICE,funeral parlor office
 764,DATING SERVICE,dating service
@@ -834,7 +834,7 @@ id,name,normalized_name
 829,DEFENSE SHELTER,defense shelter
 830,CAFETERIA,cafeteria
 831,RELIGIOUS SCHOOL,religious school
-832,40'S STYLE NIGHT CLUB A LA THE MOVIE "CABARET",40 style night club a la the movie cabaret
+832,"40'S STYLE NIGHT CLUB A LA THE MOVIE ""CABARET""",40 style night club a la the movie cabaret
 833,SECURITY ROOM,security room
 834,Springfield Fairgrounds,springfield fairgrounds
 835,Springfield City Limits,springfield city limits
@@ -842,7 +842,7 @@ id,name,normalized_name
 837,FALLOUT SHELTER,fallout shelter
 838,ROOF TOP CORNER 12TH AND MAIN,roof top corner 12th and main
 839,Bart's Body,bart body
-840,‚ÄúI Can't Believe It's a Law Firm!‚Äù,i cant believe it a law firm
+840,â€œI Can't Believe It's a Law Firm!â€ù,i cant believe it a law firm
 841,SAUNA,sauna
 842,PODIUM,podium
 843,LOVEJOY HOUSE,lovejoy house
@@ -919,7 +919,7 @@ id,name,normalized_name
 914,Honky-tonk Roadhouse,honky-tonk roadhouse
 915,SH_T KICKERS,sh_t kickers
 916,UNDERGROUND CLUB,underground club
-917,"THE HATE BOX",the hate box
+917,THE HATE BOX,the hate box
 918,SECLUDED MEADOW,secluded meadow
 919,Ruth's Car,ruth car
 920,TRAIL,trail
@@ -1594,7 +1594,7 @@ id,name,normalized_name
 1590,Hibbert Home,hibbert home
 1591,Springfield City Dump,springfield city dump
 1592,Duff Bottling Plant,duff bottling plant
-1593,Moe's "Pet Shop",moe pet shop
+1593,"Moe's ""Pet Shop""",moe pet shop
 1594,CITY DUMP,city dump
 1595,DUMP,dump
 1596,REAR OF BOWLING ALLEY,rear of bowling alley
@@ -1664,7 +1664,7 @@ id,name,normalized_name
 1660,WORLD TRADE CENTER TOWER,world trade center tower
 1661,ACROSS THE STREET,across the street
 1662,Office Building Hallway,office building hallway
-1663,"MAD" RECEPTION AREA,mad reception area
+1663,MAD RECEPTION AREA,mad reception area
 1664,MIDTOWN AVENUE,midtown avenue
 1665,Times Square,times square
 1666,MIDTOWN STREET,midtown street
@@ -2003,7 +2003,7 @@ id,name,normalized_name
 1999,ROADSIDE STAND,roadside stand
 2000,LAVATORY,lavatory
 2001,Road in Front of Simpson Farm,road in front of simpson farm
-2002,"SPRINGFIELD SQUARES" GAMESHOW SET,springfield squares gameshow set
+2002,SPRINGFIELD SQUARES GAMESHOW SET,springfield squares gameshow set
 2003,SPRINGFIELD STATE BUILDING,springfield state building
 2004,Springfield Trade Center,springfield trade center
 2005,Underground Chamber,underground chamber
@@ -2074,7 +2074,7 @@ id,name,normalized_name
 2070,Duff Days Designated Drivers' Zone,duff days designated drivers zone
 2071,Duff Days Fair Grounds,duff days fair grounds
 2072,Doctor's Office,doctor office
-2073,"IT NEVER ENDS" SET,it never ends set
+2073,IT NEVER ENDS SET,it never ends set
 2074,Moe's Dressing Room,moe dressing room
 2075,DIRECTOR'S BOOTH,director booth
 2076,SOAP OPERA SET,soap opera set
@@ -2100,9 +2100,9 @@ id,name,normalized_name
 2095,HIGHWAY CONSTRUCTION AREA,highway construction area
 2096,Gardens In Front Of Courthouse,gardens in front of courthouse
 2097,Eye Caramba,eye caramba
-2098,"eye Caramba" Examination Room,eye caramba examination room
+2098,eye Caramba Examination Room,eye caramba examination room
 2099,Eyewear Store,eyewear store
-2100,"tommy Hillclimber" Camping Store,tommy hillclimber camping store
+2100,tommy Hillclimber Camping Store,tommy hillclimber camping store
 2101,Dance Class,dance class
 2102,Der Krazy Kraut,der krazy kraut
 2103,INSANITY HEARING ROOM,insanity hearing room
@@ -2133,7 +2133,7 @@ id,name,normalized_name
 2128,STEPHEN KING'S BOOTH,stephen king booth
 2129,PROF. FRINK'S BOOTH,prof frink booth
 2130,Dr. Nick Riviera's Booth,dr nick riviera booth
-2131,"BOOKS FOR DUMMIES" SECTION,books for dummies section
+2131,BOOKS FOR DUMMIES SECTION,books for dummies section
 2132,CHILDREN'S STAGE,children stage
 2133,PANEL DISCUSSION TENT,panel discussion tent
 2134,Krusty's Booth,krusty booth
@@ -2203,7 +2203,7 @@ id,name,normalized_name
 2200,STORAGE LOCKER,storage locker
 2201,SPORTS EQUIPMENT SHED,sports equipment shed
 2202,Krusty the Clown Show Soundstage,krusty the clown show soundstage
-2203,"LAUGH IN" STAGE,laugh in stage
+2203,LAUGH IN STAGE,laugh in stage
 2204,Green Room,green room
 2205,TRACK STADIUM,track stadium
 2206,SPRINGFIELD MARATHON,springfield marathon
@@ -2214,7 +2214,7 @@ id,name,normalized_name
 2211,Producer's Office,producer office
 2212,Aircraft Carrier,aircraft carrier
 2213,SHIP'S BRIDGE,ship bridge
-2214,"MAD" BUILDING,mad building
+2214,MAD BUILDING,mad building
 2215,Blockoland,blockoland
 2216,Duff Stadium,duff stadium
 2217,OUTSIDE STADIUM,outside stadium
@@ -2296,7 +2296,7 @@ id,name,normalized_name
 2293,SWIGMORE U.,swigmore u
 2294,Swigmore U. Campus,swigmore u campus
 2295,The New Moe's,the new moe
-2296,"M",m
+2296,M,m
 2297,Homer's Garage,homer garage
 2298,WIDE SHOT OF WOODS,wide shot of woods
 2299,Chinatown,chinatown
@@ -2358,10 +2358,10 @@ id,name,normalized_name
 2355,Boardwalk,boardwalk
 2356,Toronto Bus Station,toronto bus station
 2357,CN Tower,cn tower
-2358,"PARAMOUNTIE STUDIOS",paramountie studios
+2358,PARAMOUNTIE STUDIOS,paramountie studios
 2359,SOUNDSTAGE,soundstage
-2360,"UNDERCOVER NERD" SOUNDSTAGE,undercover nerd soundstage
-2361,"CURLING FOR LOONIES" SET,curling for loonies set
+2360,UNDERCOVER NERD SOUNDSTAGE,undercover nerd soundstage
+2361,CURLING FOR LOONIES SET,curling for loonies set
 2362,FLOPPY'S NIGHT CLUB,floppy night club
 2363,OLD RITZY NEIGHBORHOOD,old ritzy neighborhood
 2364,BUCK'S MANSION,buck mansion
@@ -2424,7 +2424,7 @@ id,name,normalized_name
 2422,Carrie's Car,carrie car
 2423,Springfield College,springfield college
 2424,SPRINGFIELD COLLEGE GREEN,springfield college green
-2425,Caf√© Kafka,caf√© kafka
+2425,CafÃ© Kafka,cafÃ© kafka
 2426,SPRINGFIELD UNIVERSITY MAIN QUAD,springfield university main quad
 2427,ROOF,roof
 2428,OLD MAN'S HOUSE,old man house
@@ -2440,17 +2440,17 @@ id,name,normalized_name
 2438,TOWN MEETING,town meeting
 2439,The Wooly Bully,the wooly bully
 2440,Hat Store,hat store
-2441,SIMPSON BACKYARD ‚Äë DAY,simpson backyard day
+2441,SIMPSON BACKYARD â€‘ DAY,simpson backyard day
 2442,Sidewalk In Front Of Simpson House,sidewalk in front of simpson house
 2443,WOMEN'S CLOTHING STORE,women clothing store
 2444,FRONT OF SIMPSON HOUSE,front of simpson house
 2445,COUNTRY DIRT ROAD,country dirt road
-2446,COUNTRYSIDE ‚Äë LATER,countryside later
+2446,COUNTRYSIDE â€‘ LATER,countryside later
 2447,ROLLING FIELD,rolling field
-2448,FARMHOUSE ‚Äë DAY,farmhouse day
+2448,FARMHOUSE â€‘ DAY,farmhouse day
 2449,RURAL,rural
-2450,WAR ROOM ‚Äë DAY,war room day
-2451,Marge And Homer's Bedroom ‚Äë Night,marge and homer bedroom night
+2450,WAR ROOM â€‘ DAY,war room day
+2451,Marge And Homer's Bedroom â€‘ Night,marge and homer bedroom night
 2452,Seaplane,seaplane
 2453,ISLAND OF LOST SOULS,island of lost souls
 2454,DR. HIBBERT'S VILLA,dr hibbert villa
@@ -2472,7 +2472,7 @@ id,name,normalized_name
 2470,CIVIC CENTER PARKING LOT,civic center parking lot
 2471,Television Store,television store
 2472,SATELLITE,satellite
-2473,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE D√âCOR,central perk-style coffee shop with japanese d√âcor
+2473,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÃ‰COR,central perk-style coffee shop with japanese dÃ‰cor
 2474,THIRD-GRADE CLASS,third-grade class
 2475,STATE LEGISLATURE,state legislature
 2476,Capital City Hotel,capital city hotel
@@ -2602,7 +2602,7 @@ id,name,normalized_name
 2600,Montana,montana
 2601,CONCERT STADIUM,concert stadium
 2602,FRONT OF FLANDERS HOUSE,front of flanders house
-2603,Kirk Van Houten's "Cavalry Kids" Car,kirk van houten cavalry kids car
+2603,"Kirk Van Houten's ""Cavalry Kids"" Car",kirk van houten cavalry kids car
 2604,INSIDE STADIUM,inside stadium
 2605,GARDENS ENTRANCE,gardens entrance
 2606,Mini Van,mini van
@@ -2664,14 +2664,14 @@ id,name,normalized_name
 2662,Things Unnecessary,things unnecessary
 2663,RUN-DOWN STREET,run-down street
 2664,SEEDY CHRISTMAS TREE LOT,seedy christmas tree lot
-2665,"FAMILY MATTERS" SET,family matters set
-2666,"STAR TREK" SET,star trek set
+2665,FAMILY MATTERS SET,family matters set
+2666,STAR TREK SET,star trek set
 2667,CHURCH SACRISTY,church sacristy
 2668,Homeless Shelter,homeless shelter
 2669,Snake's Apartment,snake apartment
 2670,PARKING AREA,parking area
 2671,Cletus's Farm,cletus farm
-2672,Toys –Ø Us,toys –Ø us
+2672,Toys _¯ Us,toys _¯ us
 2673,ROLLER COASTER,roller coaster
 2674,MALL PARKING STRUCTURE,mall parking structure
 2675,FAMILY SECTION,family section
@@ -2775,7 +2775,7 @@ id,name,normalized_name
 2774,NIAGARA FALLS AIRPORT,niagara falls airport
 2775,Niagara Falls Hotel,niagara falls hotel
 2776,TOP OF FERRIS WHEEL,top of ferris wheel
-2777,"MOON BOUNCE" CASTLE,moon bounce castle
+2777,MOON BOUNCE CASTLE,moon bounce castle
 2778,MOON BOUNCE,moon bounce
 2779,NIAGARA RIVER,niagara river
 2780,BASE OF THE FALLS,base of the falls
@@ -2802,7 +2802,7 @@ id,name,normalized_name
 2801,GIRLS' CAMPGROUND,girls campground
 2802,CHILDREN'S EXAM ROOM,children exam room
 2803,When You Wash Upon a Car Wash,when you wash upon a car wash
-2804,"HEADBUTT" SET,headbutt set
+2804,HEADBUTT SET,headbutt set
 2805,LIBERTYVILLE,libertyville
 2806,First Church of Libertyville,first church of libertyville
 2807,Ronald Reagan Reeducation Center,ronald reagan reeducation center
@@ -3122,7 +3122,7 @@ id,name,normalized_name
 3121,SPRINGFIELD PUBLIC PARK,springfield public park
 3122,Shelbyville Inn,shelbyville inn
 3123,FUNCTION ROOM,function room
-3124,Seaside Caf√©,seaside caf√©
+3124,Seaside CafÃ©,seaside cafÃ©
 3125,Springfield Community Theater,springfield community theater
 3126,MUSEUM EXHIBIT,museum exhibit
 3127,WEAPONS EXHIBIT,weapons exhibit
@@ -3234,7 +3234,7 @@ id,name,normalized_name
 3233,INFOMERCIAL STUDIO,infomercial studio
 3234,Homer and Marge's First Apartment,homer and marge first apartment
 3235,LAKESIDE MANSION,lakeside mansion
-3236,CAF√â DE MEXICO,caf√â de mexico
+3236,CAFÃ‰ DE MEXICO,cafÃ‰ de mexico
 3237,Upscale Apartment,upscale apartment
 3238,Marge's Apartment,marge apartment
 3239,Dept. Store,dept store
@@ -3263,7 +3263,7 @@ id,name,normalized_name
 3262,Little League Field,little league field
 3263,Shelbyville Grand Wailea Hotel,shelbyville grand wailea hotel
 3264,FIRE STATION,fire station
-3265,"DALMATIAN KENNEL",dalmatian kennel
+3265,DALMATIAN KENNEL,dalmatian kennel
 3266,JEWEL-ENCRUSTED DOODADS ROOM,jewel-encrusted doodads room
 3267,Springfield Public Pool,springfield public pool
 3268,The Sharper Mark-Up,the sharper mark-up
@@ -3400,7 +3400,7 @@ id,name,normalized_name
 3399,SNEAKERS VAN,sneakers van
 3400,Taj-Mah-All-You-Can-Eat,taj-mah-all-you-can-eat
 3401,SPRINGFIELD NATIONAL FOREST- ACCIDENT SITE,springfield national forest- accident site
-3402,"mistress-style" Apartment,mistress-style apartment
+3402,mistress-style Apartment,mistress-style apartment
 3403,PRINCE HOUSE,prince house
 3404,BUTTERFLY ENCLOSURE,butterfly enclosure
 3405,Chazz Busby Ballet Academy,chazz busby ballet academy
@@ -3635,7 +3635,7 @@ id,name,normalized_name
 3634,SAFE ZONE,safe zone
 3635,Photo Studio,photo studio
 3636,Carl's Office,carl office
-3637,"SMOOCHES ON THE BEACH" HOTEL,smooches on the beach hotel
+3637,SMOOCHES ON THE BEACH HOTEL,smooches on the beach hotel
 3638,FRENCH PRESIDENTIAL PALACE,french presidential palace
 3639,FRONT LAWN,front lawn
 3640,FROZEN LAKE,frozen lake
@@ -3669,7 +3669,7 @@ id,name,normalized_name
 3668,Capital City Four Seasons,capital city four seasons
 3669,Country Club Banquet Hall,country club banquet hall
 3670,TORAH ROOM,torah room
-3671,SIDEWALK CAF√â,sidewalk caf√â
+3671,SIDEWALK CAFÃ‰,sidewalk cafÃ‰
 3672,ELSEWHERE IN PARIS,elsewhere in paris
 3673,SURFACE OF WATER,surface of water
 3674,Circuit Circus,circuit circus
@@ -3744,11 +3744,11 @@ id,name,normalized_name
 3743,Iceland,iceland
 3744,WALT WARREN BACKYARD,walt warren backyard
 3745,WALT'S HOUSE,walt house
-3746,"WALT'S" CAR,walt car
+3746,WALT'S CAR,walt car
 3747,TWO-MAN CELL,two-man cell
 3748,HOSPITAL MEDICAL WARD,hospital medical ward
 3749,PADDED CELL,padded cell
-3750,"GAS & GRUB",gas grub
+3750,GAS & GRUB,gas grub
 3751,REMOTE WILDERNESS,remote wilderness
 3752,TIJUANA STREETS,tijuana streets
 3753,Five Corners,five corners
@@ -3932,7 +3932,7 @@ id,name,normalized_name
 3931,Administrative Suspension Building,administrative suspension building
 3932,MALL RESTAURANT,mall restaurant
 3933,Comic Book Guy's Office,comic book guy office
-3934,"top Chef" Kitchen,top chef kitchen
+3934,top Chef Kitchen,top chef kitchen
 3935,HIGH-TECH TRAINING FACILITY,high-tech training facility
 3936,CIA OFFICE,cia office
 3937,Sleep-Eazy Motel,sleep-eazy motel
@@ -3973,7 +3973,7 @@ id,name,normalized_name
 3972,OUTER CONCOURSE,outer concourse
 3973,Changing Room,changing room
 3974,CORPORATE SKYSCRAPER,corporate skyscraper
-3975,"TWEEN LIT INC." MEETING ROOM,tween lit inc meeting room
+3975,TWEEN LIT INC. MEETING ROOM,tween lit inc meeting room
 3976,CONVENTION FLOOR,convention floor
 3977,SLICK PUBLISHER'S OFFICE,slick publisher office
 3978,LITERARY TOWERS,literary towers
@@ -4011,12 +4011,12 @@ id,name,normalized_name
 4010,Cryogenic Facility,cryogenic facility
 4011,SECURITY EXAMINATION ROOM,security examination room
 4012,TV SHOW SET,tv show set
-4013,"GUT CHECK" SET,gut check set
+4013,GUT CHECK SET,gut check set
 4014,ALL-AMERICAN HOUSE,all-american house
 4015,Spiffany's,spiffany
 4016,"MAIN STREET, USA",main street usa
 4017,Colonial Meeting House,colonial meeting house
-4018,"gut Check With Homer Simpson" Soundstage,gut check with homer simpson soundstage
+4018,gut Check With Homer Simpson Soundstage,gut check with homer simpson soundstage
 4019,Lotion Store,lotion store
 4020,CINNABUN STORE,cinnabun store
 4021,VILLAGE,village
@@ -4051,17 +4051,17 @@ id,name,normalized_name
 4050,SKI MOUNTAIN,ski mountain
 4051,NEXT DREAM LEVEL,next dream level
 4052,OLD GLOBE THEATER,old globe theater
-4053,"INCEPTION"-STYLE BEACH,inception-style beach
+4053,INCEPTION-STYLE BEACH,inception-style beach
 4054,Homer's Dream City,homer dream city
 4055,JUST ABOVE SPIKY ROCKS,just above spiky rocks
-4056,"small Shed",small shed
+4056,small Shed,small shed
 4057,SHORE OF LAKE,shore of lake
 4058,CENTER OF LAKE,center of lake
 4059,Homer's Dream,homer dream
 4060,EXAMINATION ROOM,examination room
 4061,VICTORIAN SOLARIUM,victorian solarium
 4062,SPORT PALAIS,sport palais
-4063,"ALL THE WRONG REASONS" MOVIE THEATER,all the wrong reasons movie theater
+4063,ALL THE WRONG REASONS MOVIE THEATER,all the wrong reasons movie theater
 4064,PORT,port
 4065,CRUISE CHECK-IN AREA,cruise check-in area
 4066,KidZone,kidzone
@@ -4088,7 +4088,7 @@ id,name,normalized_name
 4087,High Line,high line
 4088,INSIDE DELACORTE THEATER,inside delacorte theater
 4089,NEW YORK SKYLINE,new york skyline
-4090,ROCK CENTER CAF√â,rock center caf√â
+4090,ROCK CENTER CAFÃ‰,rock center cafÃ‰
 4091,Grand Central Station,grand central station
 4092,GRAND CENTRAL,grand central
 4093,ANOTHER TRAIN,another train
@@ -4218,12 +4218,12 @@ id,name,normalized_name
 4217,Simpson Piano Room,simpson piano room
 4218,RUSSIAN HOUSE,russian house
 4219,Science Museum,science museum
-4220,"HALL OF PROBABILITY",hall of probability
+4220,HALL OF PROBABILITY,hall of probability
 4221,WINDING ROAD,winding road
 4222,Carl's Apartment,carl apartment
 4223,STREETS OF REYKJAVIK,streets of reykjavik
 4224,REYKJAVIK CLOTHING STORE,reykjavik clothing store
-4225,"ICELANDIC MUSEUM OF NATIONAL HISTORY",icelandic museum of national history
+4225,ICELANDIC MUSEUM OF NATIONAL HISTORY,icelandic museum of national history
 4226,Icelandic Car,icelandic car
 4227,GATES,gates
 4228,REYKJAVIK,reykjavik
@@ -4267,7 +4267,7 @@ id,name,normalized_name
 4266,GRETCHEN'S APARTMENT BUILDING,gretchen apartment building
 4267,Isabel's Bedroom,isabel bedroom
 4268,SPRINGFIELD REPUBLICAN PARTY CASTLE,springfield republican party castle
-4269,Maggie's "bar",maggie bar
+4269,"Maggie's ""bar""",maggie bar
 4270,DEBATE STUDIO,debate studio
 4271,THE OLD WEST,the old west
 4272,SPRINGFIELD NEIGHBORHOOD,springfield neighborhood
@@ -4309,7 +4309,7 @@ id,name,normalized_name
 4308,DANCE HALL,dance hall
 4309,BOYS LOCKER ROOM,boys locker room
 4310,BINGO HALL,bingo hall
-4311,"SIX FLAGS OVER KRUSTY" AMUSEMENT PARK,six flags over krusty amusement park
+4311,SIX FLAGS OVER KRUSTY AMUSEMENT PARK,six flags over krusty amusement park
 4312,Springfield Seaside,springfield seaside
 4313,SHOWER,shower
 4314,RURAL SPRINGFIELD,rural springfield
@@ -4318,10 +4318,10 @@ id,name,normalized_name
 4317,Art Auction House,art auction house
 4318,Springfield Art Auction House,springfield art auction house
 4319,KIDDIE PLAYGROUND,kiddie playground
-4320,"PAY & LEAVE" SUPERMARKET,pay leave supermarket
+4320,PAY & LEAVE SUPERMARKET,pay leave supermarket
 4321,AUCTION FLOOR,auction floor
 4322,ISLA VERDE,isla verde
-4323,CAF√â ARTISTE GELATO,caf√â artiste gelato
+4323,CAFÃ‰ ARTISTE GELATO,cafÃ‰ artiste gelato
 4324,CLIFFSIDE VILLA,cliffside villa
 4325,ZEIGLER'S STUDIO,zeigler studio
 4326,MULTI-PURPOSE ROOM,multi-purpose room
@@ -4407,7 +4407,7 @@ id,name,normalized_name
 4406,BIG BOX MALL,big box mall
 4407,GUITAR CENTRAL,guitar central
 4408,CHAIN RESTAURANT,chain restaurant
-4409,"'ZERZ",zerz
+4409,'ZERZ,zerz
 4410,VAN HOUTEN GARAGE,van houten garage
 4411,SPRINGFIELD CABBAGE FESTIVAL,springfield cabbage festival
 4412,PERFORMANCE AREA,performance area
@@ -4443,7 +4443,7 @@ id,name,normalized_name
 4442,ROCKET,rocket
 4443,CLASSIC OLD THEATRE,classic old theatre
 4444,SPRINGFIELD JAIL CELL,springfield jail cell
-4445,"MARKUP BROTHERS FUNERAL HOME",markup brothers funeral home
+4445,MARKUP BROTHERS FUNERAL HOME,markup brothers funeral home
 4446,WALK-IN FREEZER,walk-in freezer
 4447,NUCLEAR PLANT CAFETERIA,nuclear plant cafeteria
 4448,FIVE SEASONS HOTEL,five seasons hotel

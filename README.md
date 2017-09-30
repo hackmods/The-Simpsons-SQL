@@ -12,9 +12,9 @@ The original data srt comes from [Kaggle.com's wcukierski: the-simpsons-by-the-d
 ### Tasks
 
 #### Phase 1
-- [ ] Load CSVs
+- [X] Load CSVs
 - [ ] Create DB schema
-- [ ] Clean Data
+- [X] Clean Data
 - [ ] Automate excel doc to export data
 - [ ] Visio doc the project
 
