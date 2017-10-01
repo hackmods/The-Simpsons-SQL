@@ -1,6 +1,6 @@
 BULK
 INSERT Location
-FROM 'C:\GitHub\The-Simpsons-SQL\CSV\simpsons_locations.csv'
+FROM 'C:\simpsons_script_lines.csv'
 WITH
 (
 FIELDTERMINATOR = ',',
