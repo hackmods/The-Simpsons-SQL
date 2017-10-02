@@ -8,20 +8,20 @@ This project stands to be a fun data source for fans of the famous yellow colour
 
 ## Origin
 
-The original data srt comes from [Kaggle.com's wcukierski: the-simpsons-by-the-data](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data), with additional data scraped across the net. The content comes "as is" and retains all of its commercial rights.
+The original data set comes from [Kaggle.com's wcukierski: the-simpsons-by-the-data](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data), with additional data scraped across the net. The content comes "as is" and retains all of its commercial rights.
 
 
 ### Tasks
 
 #### Phase 1
 - [X] Load CSVs
-- [ ] Create DB schema
+- [X] Create DB schema
 - [X] Clean Data
-- [ ] Automate excel doc to export data
-- [ ] Visio doc the project
+- [X] Automate excel doc to export data
+- [X] Visio document the project
 
 #### Phase 1
-- [ ] Create clean views of data
+- [X] Create clean views of data
 - [ ] Create graph views of data
 - [ ] Create Simpsons stored procedures
 
